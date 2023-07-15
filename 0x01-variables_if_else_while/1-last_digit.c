@@ -6,7 +6,7 @@
  * main - Prints the last digit of a randomly generated number
  * and whether it is greater than 5, less than 6, or 0.
  *
- * Description: This program assign a random number to the variable n each time it is executed
+ * Description: Assign a random number to the variable n
  * Return: Always 0.
  */
 int main(void)
